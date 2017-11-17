@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="yy.jar.shadow.mapper.MyTestMapper">
+  <resultMap id="BaseResultMap" type="yy.jar.shadow.model.MyTest">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="tvalue" jdbcType="VARCHAR" property="tValue" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, tvalue
+  </sql>
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from test
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from test
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="yy.jar.shadow.model.MyTest">
+    insert into test (id, tvalue)
+    values (#{id,jdbcType=INTEGER}, #{tValue,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="yy.jar.shadow.model.MyTest">
+    insert into test
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        id,
+      </if>
+      <if test="tValue != null">
+        tvalue,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="tValue != null">
+        #{tValue,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="yy.jar.shadow.model.MyTest">
+    update test
+    <set>
+      <if test="tValue != null">
+        tvalue = #{tValue,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+
+  <update id="updateByPrimaryKey" parameterType="yy.jar.shadow.model.MyTest">
+    update test
+    set tvalue = #{tValue,jdbcType=VARCHAR}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+
+
+
+  <select id="selectAll" resultType="yy.jar.shadow.model.MyTest">
+    select
+    id, tvalue
+    from test
+  </select>
+</mapper>
