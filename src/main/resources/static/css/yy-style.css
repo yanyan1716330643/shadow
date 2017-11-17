@@ -1,0 +1,37 @@
+body{
+	padding-top:51px;
+	background-color: #99999914;
+}
+
+.navbar-inverse input[type="text"]{
+	background: #313131;
+	border: none;
+	color: #999;
+}
+
+#yy-test01{
+	position:relative; 
+}
+
+.navbar-inverse button[type="submit"]{
+	position: absolute;
+	top:30%;
+	right: 20px; 
+	background: none;
+	border: none;
+	
+}
+
+.navbar-inverse .glyphicon{
+	color: #999;
+}
+
+.profile{
+	margin-right: 25px;
+}
+
+@media (min-width: 768px) {
+	.navbar-inverse button[type="submit"]{
+		top:18%;
+	}
+}
