@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="war-pom" type="PLAIN_TEXT" />
+      <mapping ext="xml-war" type="XML" />
+      <mapping ext="xml-default-jar" type="XML" />
+    </extensionMap>
+  </component>
+</application>
