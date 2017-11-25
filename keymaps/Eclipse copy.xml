@@ -1,7 +1,19 @@
 <keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="HippieCompletion" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
+  <action id="ShowContent" />
 </keymap>
