@@ -42,6 +42,10 @@
           <option name="url" value="http://uniubi/yanyan/uniubi-ground-web-nodejs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://uniubi/panlei/microservice-uniubi-user-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
