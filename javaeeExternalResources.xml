@@ -1,6 +1,9 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/beans/spring-beans-2.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/6e49288e_spring-beans-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tool/spring-tool-2.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/2a73ae60_spring-tool-2.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx-2.0.xsd" location="$USER_HOME$/.IntelliJIdea2017.2/system/extResources/ed354df8_spring-tx-2.0.xsd" />
     <ignored-resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" />
   </component>
 </application>
