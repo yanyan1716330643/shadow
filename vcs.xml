@@ -70,6 +70,10 @@
           <option name="url" value="http://uniubi/xushunke/mircroservice-uniubi-connection-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://uniubi/chenxiaolian2/microservice-uniubi-ground-web-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects" />
