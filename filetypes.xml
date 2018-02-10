@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="appjs-default" type="PLAIN_TEXT" />
       <mapping pattern="war-pom" type="PLAIN_TEXT" />
+      <mapping pattern="ddl.sql" type="PLAIN_TEXT" />
       <mapping ext="properties-test" type="PLAIN_TEXT" />
       <mapping ext="properties-production" type="PLAIN_TEXT" />
       <mapping ext="path@" type="PLAIN_TEXT" />
