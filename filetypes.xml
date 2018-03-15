@@ -7,6 +7,7 @@
       <mapping ext="properties-test" type="PLAIN_TEXT" />
       <mapping ext="properties-production" type="PLAIN_TEXT" />
       <mapping ext="path@" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="xml-war" type="XML" />
       <mapping ext="xml-default-jar" type="XML" />
     </extensionMap>
