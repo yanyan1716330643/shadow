@@ -114,6 +114,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="yanyan1716330643" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://uniubi/xushunke/microservice-uniubi-ss-gs-sms-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\projects" />
