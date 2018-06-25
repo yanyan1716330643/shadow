@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="current Header Param" />
       <item value="param" />
       <item value="熔断异常" />
       <item value="handle Exception" />
