@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="当前" />
+      <item value="current" />
       <item value="presence" />
       <item value="current Header Param" />
       <item value="param" />
