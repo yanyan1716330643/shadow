@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="association" />
+      <item value="一个用户在一家公司只能有一条关联关系" />
       <item value="当前" />
       <item value="current" />
       <item value="presence" />
