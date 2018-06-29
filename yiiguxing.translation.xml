@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Json Syntax Exception" />
+      <item value="Malformed Json Exception" />
       <item value="EXP ILLEGAL PERMISSION" />
       <item value="EXP DUPLICATE KEY" />
       <item value="Retryable Exception" />
