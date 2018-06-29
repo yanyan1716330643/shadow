@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="项目业务错误" />
       <item value="Builder" />
       <item value="association" />
       <item value="一个用户在一家公司只能有一条关联关系" />
