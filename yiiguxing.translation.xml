@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Parameter Exception" />
+      <item value="Duplicate Key Exception" />
+      <item value="Missing Servlet Request Parameter Exception" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="Retryable Exception" />
+      <item value="Http Media Type Not Supported Exception" />
+      <item value="Http Request Method Not Supported Exception" />
+      <item value="Hystrix Timeout Exception" />
+      <item value="EXP ILLEGAL PERMISSION" />
       <item value="项目业务错误" />
       <item value="Builder" />
       <item value="association" />
