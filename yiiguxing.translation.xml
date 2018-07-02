@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Http Message Not Readable Exception" />
       <item value="Json Syntax Exception" />
       <item value="Malformed Json Exception" />
       <item value="EXP ILLEGAL PERMISSION" />
