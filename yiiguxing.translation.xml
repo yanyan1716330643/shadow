@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bind Exception" />
+      <item value="Method Argument Not Valid Exception" />
       <item value="面积比例" />
       <item value="Http Message Not Readable Exception" />
       <item value="Json Syntax Exception" />
