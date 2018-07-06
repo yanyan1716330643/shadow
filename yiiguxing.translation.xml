@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Criteria" />
+      <item value="DESC" />
       <item value="Unsupported Operation Exception" />
       <item value="Bind Exception" />
       <item value="Method Argument Not Valid Exception" />
