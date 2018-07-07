@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="correct" />
+      <item value="修正" />
+      <item value="矫正" />
+      <item value="获取" />
+      <item value="预期最大" />
       <item value="fetch Current Paas Access" />
       <item value="Rela" />
       <item value="Criteria" />
