@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="distinct" />
       <item value="maybe Emit Event" />
       <item value="populate Id If Necessary" />
       <item value="initialize Version Property" />
