@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="maybe Emit Event" />
+      <item value="populate Id If Necessary" />
+      <item value="initialize Version Property" />
+      <item value="assert Updateable Id If Not Set" />
       <item value="presence" />
       <item value="correct" />
       <item value="修正" />
