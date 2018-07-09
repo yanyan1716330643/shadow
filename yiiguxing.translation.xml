@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="presence" />
       <item value="correct" />
       <item value="修正" />
       <item value="矫正" />
@@ -33,7 +34,6 @@
       <item value="一个用户在一家公司只能有一条关联关系" />
       <item value="当前" />
       <item value="current" />
-      <item value="presence" />
       <item value="current Header Param" />
       <item value="param" />
       <item value="熔断异常" />
