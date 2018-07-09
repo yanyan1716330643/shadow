@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parallelcollectionscan" />
+      <item value="OBEDIENT COMMANDS . add (&quot; parallelcollectionscan &quot;);" />
+      <item value="dbstats" />
+      <item value="collstats" />
+      <item value="aggregate" />
       <item value="read Preference" />
       <item value="distinct" />
       <item value="maybe Emit Event" />
