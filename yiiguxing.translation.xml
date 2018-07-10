@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="Transactional" />
       <item value="Undeclared Throwable Exception" />
       <item value="parallelcollectionscan" />
@@ -50,7 +51,6 @@
       <item value="current Header Param" />
       <item value="param" />
       <item value="熔断异常" />
-      <item value="handle Exception" />
     </histories>
   </component>
 </application>
