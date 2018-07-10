@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Undeclared Throwable Exception" />
       <item value="parallelcollectionscan" />
       <item value="OBEDIENT COMMANDS . add (&quot; parallelcollectionscan &quot;);" />
       <item value="dbstats" />
@@ -50,7 +51,6 @@
       <item value="熔断异常" />
       <item value="handle Exception" />
       <item value="Base Component" />
-      <item value="extends" />
     </histories>
   </component>
 </application>
