@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No id property found for object of type class com.uniubi.entity.mongoEntity.PersonMongoPo" />
+      <item value="Mapping Exception" />
       <item value="org.springframework.dao.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'; nested exception is com.mongodb.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'" />
       <item value="If set to true index will skip over any document that is missing the indexed field." />
       <item value="It does not actually make sense to use that attribute as the direction has to be defined in the {@link #def()} * attribute actually." />
@@ -49,8 +51,6 @@
       <item value="Duplicate Key Exception" />
       <item value="Missing Servlet Request Parameter Exception" />
       <item value="Data Integrity Violation Exception" />
-      <item value="Http Media Type Not Supported Exception" />
-      <item value="Http Request Method Not Supported Exception" />
     </histories>
   </component>
 </application>
