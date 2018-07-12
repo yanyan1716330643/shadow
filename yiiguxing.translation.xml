@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Retryable Exception" />
       <item value="No id property found for object of type class com.uniubi.entity.mongoEntity.PersonMongoPo" />
       <item value="Mapping Exception" />
       <item value="org.springframework.dao.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'; nested exception is com.mongodb.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'" />
@@ -46,7 +47,6 @@
       <item value="Malformed Json Exception" />
       <item value="EXP ILLEGAL PERMISSION" />
       <item value="EXP DUPLICATE KEY" />
-      <item value="Retryable Exception" />
       <item value="Parameter Exception" />
       <item value="Duplicate Key Exception" />
       <item value="Missing Servlet Request Parameter Exception" />
