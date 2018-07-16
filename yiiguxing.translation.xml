@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncategorized SQL Exception" />
+      <item value="Method threw 'org.springframework.jdbc.UncategorizedSQLException' exception." />
       <item value="限制" />
       <item value="decode" />
       <item value="* &lt;i&gt;DecimalNumeral&lt;/i&gt;, &lt;i&gt;HexDigits&lt;/i&gt;, and &lt;i&gt;OctalDigits&lt;/i&gt; * are as defined in section 3.10.1 of * &lt;cite&gt;The Java&amp;trade; Language Specification&lt;/cite&gt;, * except that underscores are not accepted between digits. * * &lt;p&gt;The sequence of characters following an optional * sign and/or radix specifier (&quot;{@code 0x}&quot;, &quot;{@code 0X}&quot;, * &quot;{@code #}&quot;, or leading zero) is parsed as by the {@code * Integer.parseInt} method with the indicated radix (10, 16, or * 8). This sequence of characters must represent a positive * value or a {@link NumberFormatException} will be thrown. The * result is negated if first character of the specified {@code * String} is the minus sign. No whitespace characters are * permitted in the {@code String}." />
@@ -49,8 +51,6 @@
       <item value="Unsupported Operation Exception" />
       <item value="Bind Exception" />
       <item value="Method Argument Not Valid Exception" />
-      <item value="面积比例" />
-      <item value="Http Message Not Readable Exception" />
     </histories>
   </component>
 </application>
