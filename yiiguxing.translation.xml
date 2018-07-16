@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="前缀" />
       <item value="Uncategorized SQL Exception" />
       <item value="Method threw 'org.springframework.jdbc.UncategorizedSQLException' exception." />
       <item value="限制" />
@@ -24,7 +25,6 @@
       <item value="sparse" />
       <item value="Client Exception" />
       <item value="填充" />
-      <item value="前缀" />
       <item value="Transactional" />
       <item value="Undeclared Throwable Exception" />
       <item value="parallelcollectionscan" />
