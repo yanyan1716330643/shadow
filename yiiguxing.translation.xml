@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="comparison Face 1 vn" />
       <item value="前缀" />
       <item value="Uncategorized SQL Exception" />
       <item value="Method threw 'org.springframework.jdbc.UncategorizedSQLException' exception." />
@@ -50,7 +51,6 @@
       <item value="DESC" />
       <item value="Unsupported Operation Exception" />
       <item value="Bind Exception" />
-      <item value="Method Argument Not Valid Exception" />
     </histories>
   </component>
 </application>
