@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="record" />
+      <item value="记录" />
       <item value="comparison Face 1 vn" />
       <item value="前缀" />
       <item value="Uncategorized SQL Exception" />
@@ -49,8 +51,6 @@
       <item value="Rela" />
       <item value="Criteria" />
       <item value="DESC" />
-      <item value="Unsupported Operation Exception" />
-      <item value="Bind Exception" />
     </histories>
   </component>
 </application>
