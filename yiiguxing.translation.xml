@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uncategorized SQL Exception" />
+      <item value="EOF Parser Exception" />
+      <item value="injection violation" />
       <item value="record" />
       <item value="记录" />
       <item value="comparison Face 1 vn" />
       <item value="前缀" />
-      <item value="Uncategorized SQL Exception" />
       <item value="Method threw 'org.springframework.jdbc.UncategorizedSQLException' exception." />
       <item value="限制" />
       <item value="decode" />
@@ -49,8 +51,6 @@
       <item value="预期最大" />
       <item value="fetch Current Paas Access" />
       <item value="Rela" />
-      <item value="Criteria" />
-      <item value="DESC" />
     </histories>
   </component>
 </application>
