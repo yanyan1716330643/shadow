@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Class Def Found Error" />
       <item value="Uncategorized SQL Exception" />
       <item value="EOF Parser Exception" />
       <item value="injection violation" />
@@ -50,7 +51,6 @@
       <item value="获取" />
       <item value="预期最大" />
       <item value="fetch Current Paas Access" />
-      <item value="Rela" />
     </histories>
   </component>
 </application>
