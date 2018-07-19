@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="奇偶" />
+      <item value="偶" />
+      <item value="单" />
+      <item value="单数" />
       <item value="modify Time" />
       <item value="No Class Def Found Error" />
       <item value="Uncategorized SQL Exception" />
@@ -47,10 +51,6 @@
       <item value="assert Updateable Id If Not Set" />
       <item value="presence" />
       <item value="correct" />
-      <item value="修正" />
-      <item value="矫正" />
-      <item value="获取" />
-      <item value="预期最大" />
     </histories>
   </component>
 </application>
