@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="压缩" />
       <item value="小时" />
       <item value="奇偶" />
       <item value="偶" />
@@ -50,7 +51,6 @@
       <item value="populate Id If Necessary" />
       <item value="initialize Version Property" />
       <item value="assert Updateable Id If Not Set" />
-      <item value="presence" />
     </histories>
   </component>
 </application>
