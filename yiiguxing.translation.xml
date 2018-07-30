@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="source" />
+      <item value="源" />
+      <item value="simpleness" />
+      <item value="简单" />
+      <item value="简洁" />
+      <item value="cross" />
+      <item value="snapshot version cross num limit" />
+      <item value="跨越" />
+      <item value="Step" />
       <item value="compression" />
       <item value="gt" />
       <item value="latest" />
@@ -42,15 +51,6 @@
       <item value="background" />
       <item value="use Generated Name" />
       <item value="drop Dups" />
-      <item value="sparse" />
-      <item value="Client Exception" />
-      <item value="填充" />
-      <item value="Transactional" />
-      <item value="Undeclared Throwable Exception" />
-      <item value="parallelcollectionscan" />
-      <item value="OBEDIENT COMMANDS . add (&quot; parallelcollectionscan &quot;);" />
-      <item value="dbstats" />
-      <item value="collstats" />
     </histories>
   </component>
 </application>
