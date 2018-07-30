@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="latest" />
+      <item value="最新" />
       <item value="Quartz Service" />
       <item value="前缀" />
       <item value="Quartz" />
@@ -49,8 +51,6 @@
       <item value="collstats" />
       <item value="aggregate" />
       <item value="read Preference" />
-      <item value="distinct" />
-      <item value="maybe Emit Event" />
     </histories>
   </component>
 </application>
