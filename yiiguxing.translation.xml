@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Quartz" />
       <item value="Snapshot" />
       <item value="压缩" />
       <item value="小时" />
@@ -50,7 +51,6 @@
       <item value="distinct" />
       <item value="maybe Emit Event" />
       <item value="populate Id If Necessary" />
-      <item value="initialize Version Property" />
     </histories>
   </component>
 </application>
