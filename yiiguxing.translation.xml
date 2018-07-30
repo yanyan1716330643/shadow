@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compression" />
       <item value="gt" />
       <item value="latest" />
       <item value="最新" />
@@ -50,7 +51,6 @@
       <item value="OBEDIENT COMMANDS . add (&quot; parallelcollectionscan &quot;);" />
       <item value="dbstats" />
       <item value="collstats" />
-      <item value="aggregate" />
     </histories>
   </component>
 </application>
