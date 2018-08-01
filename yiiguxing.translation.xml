@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="condition" />
       <item value="* Returns a view of the portion of this list between the specified * &lt;tt&gt;fromIndex&lt;/tt&gt;, inclusive, and &lt;tt&gt;toIndex&lt;/tt&gt;, exclusive. (If * &lt;tt&gt;fromIndex&lt;/tt&gt; and &lt;tt&gt;toIndex&lt;/tt&gt; are equal, the returned list is * empty.) The returned list is backed by this list, so non-structural * changes in the returned list are reflected in this list, and vice-versa. * The returned list supports all of the optional list operations supported * by this list.&lt;p&gt; * * This method eliminates the need for explicit range operations (of * the sort that commonly exist for arrays). Any operation that expects * a list can be used as a range operation by passing a subList view * instead of a whole list. For example, the following idiom * removes a range of elements from a list: * &lt;pre&gt;{@code * list.subList(from, to).clear(); * }&lt;/pre&gt; * Similar idioms may be constructed for &lt;tt&gt;indexOf&lt;/tt&gt; and * &lt;tt&gt;lastIndexOf&lt;/tt&gt;, and all of the algorithms in the * &lt;tt&gt;Collections&lt;/tt&gt; class can be applied to a subList.&lt;p&gt; * * The semantics of the list returned by this method become undefined if * the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;/i" />
       <item value="snapshot Version" />
       <item value="snapshotV" />
@@ -50,7 +51,6 @@
       <item value="No id property found for object of type class com.uniubi.entity.mongoEntity.PersonMongoPo" />
       <item value="Mapping Exception" />
       <item value="org.springframework.dao.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'; nested exception is com.mongodb.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'" />
-      <item value="If set to true index will skip over any document that is missing the indexed field." />
     </histories>
   </component>
 </application>
