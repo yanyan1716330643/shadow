@@ -1,6 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Annotations are to be recorded in the class file by the compiler and * retained by the VM at run time, so they may be read reflectively." />
+      <item value="Annotations are to be recorded in the class file by the compiler * but need not be retained by the VM at run time. This is the default * behavior." />
+      <item value="compiler" />
+      <item value="discarded" />
+      <item value="Annotations are to be discarded by the compiler" />
+      <item value="Annotation retention policy. The constants of this enumerated type * describe the various policies for retaining annotations. They are used * in conjunction with the {@link Retention} meta-annotation type to specify * how long annotations are to be retained." />
+      <item value="Annotation" />
+      <item value="retention" />
+      <item value="policy" />
+      <item value="Retention Policy" />
       <item value="condition" />
       <item value="* Returns a view of the portion of this list between the specified * &lt;tt&gt;fromIndex&lt;/tt&gt;, inclusive, and &lt;tt&gt;toIndex&lt;/tt&gt;, exclusive. (If * &lt;tt&gt;fromIndex&lt;/tt&gt; and &lt;tt&gt;toIndex&lt;/tt&gt; are equal, the returned list is * empty.) The returned list is backed by this list, so non-structural * changes in the returned list are reflected in this list, and vice-versa. * The returned list supports all of the optional list operations supported * by this list.&lt;p&gt; * * This method eliminates the need for explicit range operations (of * the sort that commonly exist for arrays). Any operation that expects * a list can be used as a range operation by passing a subList view * instead of a whole list. For example, the following idiom * removes a range of elements from a list: * &lt;pre&gt;{@code * list.subList(from, to).clear(); * }&lt;/pre&gt; * Similar idioms may be constructed for &lt;tt&gt;indexOf&lt;/tt&gt; and * &lt;tt&gt;lastIndexOf&lt;/tt&gt;, and all of the algorithms in the * &lt;tt&gt;Collections&lt;/tt&gt; class can be applied to a subList.&lt;p&gt; * * The semantics of the list returned by this method become undefined if * the backing list (i.e., this list) is &lt;i&gt;structurally modified&lt;/i" />
       <item value="snapshot Version" />
@@ -41,16 +51,6 @@
       <item value="Method threw 'org.springframework.jdbc.UncategorizedSQLException' exception." />
       <item value="限制" />
       <item value="decode" />
-      <item value="* &lt;i&gt;DecimalNumeral&lt;/i&gt;, &lt;i&gt;HexDigits&lt;/i&gt;, and &lt;i&gt;OctalDigits&lt;/i&gt; * are as defined in section 3.10.1 of * &lt;cite&gt;The Java&amp;trade; Language Specification&lt;/cite&gt;, * except that underscores are not accepted between digits. * * &lt;p&gt;The sequence of characters following an optional * sign and/or radix specifier (&quot;{@code 0x}&quot;, &quot;{@code 0X}&quot;, * &quot;{@code #}&quot;, or leading zero) is parsed as by the {@code * Integer.parseInt} method with the indicated radix (10, 16, or * 8). This sequence of characters must represent a positive * value or a {@link NumberFormatException} will be thrown. The * result is negated if first character of the specified {@code * String} is the minus sign. No whitespace characters are * permitted in the {@code String}." />
-      <item value="Partition Util" />
-      <item value="S Util" />
-      <item value="second" />
-      <item value="第二" />
-      <item value="2" />
-      <item value="Retryable Exception" />
-      <item value="No id property found for object of type class com.uniubi.entity.mongoEntity.PersonMongoPo" />
-      <item value="Mapping Exception" />
-      <item value="org.springframework.dao.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'; nested exception is com.mongodb.DuplicateKeyException: Write failed with error code 11000 and error message 'E11000 duplicate key error collection: yanyan-test.person index: i_unique_person_id dup key: { : null }'" />
     </histories>
   </component>
 </application>
