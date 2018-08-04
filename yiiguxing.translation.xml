@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multipart" />
       <item value="Annotations are to be recorded in the class file by the compiler and * retained by the VM at run time, so they may be read reflectively." />
       <item value="Annotations are to be recorded in the class file by the compiler * but need not be retained by the VM at run time. This is the default * behavior." />
       <item value="compiler" />
@@ -50,7 +51,6 @@
       <item value="comparison Face 1 vn" />
       <item value="Method threw 'org.springframework.jdbc.UncategorizedSQLException' exception." />
       <item value="限制" />
-      <item value="decode" />
     </histories>
   </component>
 </application>
