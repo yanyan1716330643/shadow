@@ -150,6 +150,10 @@
           <option name="url" value="http://uniubi/chenxiaolian2/uniubi-microservice-cloud-help-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://uniubi/jiangrenyong/uniubi-microservice-micro-school-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\IdeaProjects\simpleProjects" />
